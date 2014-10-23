@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Acitivity3_2
+#
+
+projectname: Acitivity3_2
+vendorid: com.mycompany
+mainmodule: com.mycompany.acitivity32
